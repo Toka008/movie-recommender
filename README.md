@@ -24,6 +24,9 @@ Our Demo of the App created:
 
 ![Screenshot 2024-01-02 115924](https://github.com/Toka008/HR-Case-Study-Absenteeism-Insights-and-Performance-Improvement/assets/63381061/18f18c6f-0146-4cf1-a6e5-deb34628826a)
 
+A bar graph showing movies piblished per year
+![moviesperyear](https://github.com/Toka008/movie-recommender/assets/63381061/c2d706a0-079a-48b1-ad73-ede3a62f192d)
+
 
 
 The dashboard presents the following key findings:
