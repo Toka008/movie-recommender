@@ -27,7 +27,13 @@ Our Demo of the App created:
 A bar graph showing movies piblished per year
 ![moviesperyear](https://github.com/Toka008/movie-recommender/assets/63381061/c2d706a0-079a-48b1-ad73-ede3a62f192d)
 
+A bar graph showing movies piblished per year
+![Rating distri](https://github.com/Toka008/movie-recommender/assets/63381061/546a2518-9cc8-4187-9215-985aa152e6e9)
 
+A bar graph showing movies piblished per year
+
+
+A bar graph showing movies piblished per year
 
 The dashboard presents the following key findings:
 
