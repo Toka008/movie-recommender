@@ -30,8 +30,8 @@ A bar graph showing movies piblished per year
 A bar graph showing movies piblished per year
 ![Rating distri](https://github.com/Toka008/movie-recommender/assets/63381061/546a2518-9cc8-4187-9215-985aa152e6e9)
 
-A bar graph showing movies piblished per year
-
+A bar graph showing popular genre
+![popular genre](https://github.com/Toka008/movie-recommender/assets/63381061/bfd7c8c5-c178-4150-ac31-17f690553bf8)
 
 A bar graph showing movies piblished per year
 
