@@ -34,17 +34,7 @@ A bar graph showing popular genre
 ![popular genre](https://github.com/Toka008/movie-recommender/assets/63381061/bfd7c8c5-c178-4150-ac31-17f690553bf8)
 
 A bar graph showing average genre rating
-
-The dashboard presents the following key findings:
-
-- Spring had the most absences.
-- Spring had the highest workload.
-- 5 employees (of 36) accounted for half of all absences.
-- Medical reasons were the most common cause of absences.
-- Drinkers took the most unjustified leave (70%).
-- Absences due to medical reasons (Reason 15) occurred only on Mondays and Fridays.
-- Employees with 4 children took more leave than those with fewer children.
-- Obese employees, constituting a quarter of the workforce, accounted for a third of all medical leave.
+![averageratinggenre](https://github.com/Toka008/movie-recommender/assets/63381061/5790560b-effa-4d73-bb2e-990d2b3facb9)
 
 ## Conclusions
 1. An excessive amount of ratings have been provided by the most popular users. This could distort the results in favor of their personal preferences if not handled appropriately.
