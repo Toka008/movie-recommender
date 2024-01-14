@@ -10,10 +10,10 @@ Because movie-streaming services don't have recommender systems, like their comp
 4. Inform interested parties of findings
 
 ## Tools Used
-1.Python
-  - Streamlit
-  - scikit-learn
-  - nltk
+1.Python(
+- Streamlit
+- scikit-learn
+- nltk)
 2.Comet
 3.GitHub
 4.AWS EC2 with S3 bucket
