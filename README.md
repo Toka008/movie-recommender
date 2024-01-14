@@ -14,9 +14,9 @@ Because movie-streaming services don't have recommender systems, like their comp
 - Streamlit
 - scikit-learn
 - nltk)
-2.Comet
-3.GitHub
-4.AWS EC2 with S3 bucket
+- 2.Comet
+- 3.GitHub
+- 4.AWS EC2 with S3 bucket
 
 ## Output
 
